@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Dori\'sBookStore</string>
+    <string name="empty_view_title_text">It\'s too much empty space here...</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Books</string>
+    <!-- Toast message in editor when new book has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_book_successful">Book saved</string>
+    <!-- Toast message in editor when new book has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_book_failed">Error with saving book</string>
+    <string name="editor_update_book_failed">Update Failed</string>
+    <string name="editor_update_book_successful">Update Successful</string>
+    <!-- Subtitle text for the empty view that prompts the user to add a book [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a book</string>
+    <!-- Label for editor menu option to save bookand leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_activity_title_new_book">Add a Book</string>
+    <string name="editor_activity_title_edit_book">Edit the book</string>
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+    <string name="hint_book_name">Name - Author (required)</string>
+    <string name="hint_book_price">Price (required)</string>
+    <string name="hint_book_quantity">Quantity (required)</string>
+    <string name="hint_book_supplier">Book Supplier</string>
+    <string name="hint_book_supplier_phone">Book Supplier Phone</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+     <string name="delete_dialog_msg">Delete this book?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_book_successful">Book deleted</string>
+    <string name="editor_delete_book_failed">Error with deleting book</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_insert_book_null">Cannot insert null values: name, price and quantity are mandatory.</string>
+ </resources>
